@@ -18,3 +18,5 @@ My codewars katas solutions
 008 Vasya Clerk
 
 009 Range Extraction
+
+010 Nesting Structure Comparison
