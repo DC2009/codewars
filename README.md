@@ -16,3 +16,5 @@ My codewars katas solutions
 007 Take a ten minute walk
 
 008 Vasya Clerk
+
+009 Range Extraction
