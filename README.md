@@ -10,3 +10,5 @@ My codewars katas solutions
 004 Fibonacci, Tribonacci and friends
 
 005 Get the Middle Character
+
+006 Equal sides of an array
