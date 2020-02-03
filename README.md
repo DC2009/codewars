@@ -1,2 +1,5 @@
 # codewars
-My codewars kata solutions
+My codewars katas solutions
+
+001 Create Phone Number
+
