@@ -12,3 +12,5 @@ My codewars katas solutions
 005 Get the Middle Character
 
 006 Equal sides of an array
+
+007 Take a ten minute walk
