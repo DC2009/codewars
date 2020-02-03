@@ -14,3 +14,5 @@ My codewars katas solutions
 006 Equal sides of an array
 
 007 Take a ten minute walk
+
+008 Vasya Clerk
