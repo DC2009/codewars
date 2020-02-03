@@ -20,3 +20,5 @@ My codewars katas solutions
 009 Range Extraction
 
 010 Nesting Structure Comparison
+
+011 Hamming Numbers
