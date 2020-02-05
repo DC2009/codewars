@@ -22,3 +22,5 @@ My codewars katas solutions
 010 Nesting Structure Comparison
 
 011 Hamming Numbers
+
+012 Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!
