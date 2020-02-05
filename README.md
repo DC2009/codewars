@@ -32,3 +32,5 @@ My codewars katas solutions
 015 Digital Root
 
 016 Sum of Intervals
+
+017 Are they the same?
