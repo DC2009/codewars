@@ -36,3 +36,5 @@ My codewars katas solutions
 017 Are they the same?
 
 018 Catching Car Mileage Numbers
+
+019 Sum Strings As Numbers
