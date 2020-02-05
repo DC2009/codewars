@@ -28,3 +28,5 @@ My codewars katas solutions
 013 Count the smiley faces!
 
 014 Valid Parentheses
+
+015 Digital Root
