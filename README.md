@@ -34,3 +34,5 @@ My codewars katas solutions
 016 Sum of Intervals
 
 017 Are they the same?
+
+018 Catching Car Mileage Numbers
