@@ -30,3 +30,5 @@ My codewars katas solutions
 014 Valid Parentheses
 
 015 Digital Root
+
+016 Sum of Intervals
