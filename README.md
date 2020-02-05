@@ -26,3 +26,5 @@ My codewars katas solutions
 012 Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!
 
 013 Count the smiley faces!
+
+014 Valid Parentheses
