@@ -42,3 +42,5 @@ My codewars katas solutions
 020 Validate Sudoku with size NxN
 
 021 Middle Permutation
+
+022 Which are in?
