@@ -44,3 +44,5 @@ My codewars katas solutions
 021 Middle Permutation
 
 022 Which are in?
+
+023 Strip Comments
