@@ -40,3 +40,5 @@ My codewars katas solutions
 019 Sum Strings As Numbers
 
 020 Validate Sudoku with size NxN
+
+021 Middle Permutation
