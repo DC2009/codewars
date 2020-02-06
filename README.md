@@ -54,3 +54,5 @@ My codewars katas solutions
 026 Coloured Triangles
 
 027 Insane Coloured Triangles
+
+028 Calculator
