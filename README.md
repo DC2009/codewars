@@ -46,3 +46,5 @@ My codewars katas solutions
 022 Which are in?
 
 023 Strip Comments
+
+024 Greed is good
