@@ -48,3 +48,5 @@ My codewars katas solutions
 023 Strip Comments
 
 024 Greed is good
+
+025 Pick Peaks
