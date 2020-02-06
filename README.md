@@ -52,3 +52,5 @@ My codewars katas solutions
 025 Pick Peaks
 
 026 Coloured Triangles
+
+027 Insane Coloured Triangles
