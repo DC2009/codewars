@@ -38,3 +38,5 @@ My codewars katas solutions
 018 Catching Car Mileage Numbers
 
 019 Sum Strings As Numbers
+
+020 Validate Sudoku with size NxN
