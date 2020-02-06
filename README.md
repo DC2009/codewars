@@ -50,3 +50,5 @@ My codewars katas solutions
 024 Greed is good
 
 025 Pick Peaks
+
+026 Coloured Triangles
