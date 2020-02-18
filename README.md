@@ -56,3 +56,6 @@ My codewars katas solutions
 027 Insane Coloured Triangles
 
 028 Calculator
+
+029 The soul of wit: reverse an array
+
