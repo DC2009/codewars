@@ -66,3 +66,5 @@ My codewars katas solutions
 032 Snail
 
 033 Mean Square Error
+
+034 Topological Image Processing: 4-Connected Components
