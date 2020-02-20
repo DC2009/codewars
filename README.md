@@ -64,3 +64,5 @@ My codewars katas solutions
 031 Pyramid Slide Down
 
 032 Snail
+
+033 Mean Square Error
