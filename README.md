@@ -70,3 +70,5 @@ My codewars katas solutions
 034 Topological Image Processing: 4-Connected Components
 
 035 Descending Order
+
+036 Find The Parity Outlier
