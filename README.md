@@ -72,3 +72,5 @@ My codewars katas solutions
 035 Descending Order
 
 036 Find The Parity Outlier
+
+037 Best Travel
